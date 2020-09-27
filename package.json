@@ -33,7 +33,7 @@
   },
   "dependencies": {
     "debug": "^2.1.3",
-    "dom-compare-temp": "^0.1.0",
+    "dom-compare-temp": "git+https://github.com/Olegas/dom-compare.git",
     "jsdom": "^6.5.1",
     "request": "^2.40.0"
   },
